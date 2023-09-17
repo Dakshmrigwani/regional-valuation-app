@@ -2,7 +2,7 @@
 
 name = "regional-valuation-app"
 client_id = "eef555c78593a1123549c43bf6b8775e"
-application_url = "https://modern-virginia-inquire-rain.trycloudflare.com"
+application_url = "https://available-adam-ease-increasing.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://modern-virginia-inquire-rain.trycloudflare.com/auth/callback",
-  "https://modern-virginia-inquire-rain.trycloudflare.com/auth/shopify/callback",
-  "https://modern-virginia-inquire-rain.trycloudflare.com/api/auth/callback"
+  "https://available-adam-ease-increasing.trycloudflare.com/auth/callback",
+  "https://available-adam-ease-increasing.trycloudflare.com/auth/shopify/callback",
+  "https://available-adam-ease-increasing.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
